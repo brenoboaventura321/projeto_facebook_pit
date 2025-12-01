@@ -42,19 +42,19 @@ Se sim: para o codigo e exibe mensagem de erro;
 
 Se não: 
 
-Define o id do usuario a partir do numero de usuarios na lista usuarios em rede +1. 
+    Define o id do usuario a partir do numero de usuarios na lista usuarios em rede +1. 
 
-Usa strncpy para guardar o nome digitado na variavel nome do usuario. 
+    Usa strncpy para guardar o nome digitado na variavel nome do usuario. 
 
-O mesmo para idade.
+    O mesmo para idade.
 
-Define o num_amigos em 0;
+    Define o num_amigos em 0;
+    
+    Incrementa a quantidade de usuarios na rede.
 
-Incrementa a quantidade de usuarios na rede.
+    Exibe a informação de criação de usuario.
 
-Exibe a informação de criação de usuario.
-
-Retorna o id do novo usuario..
+    Retorna o id do novo usuario..
 
 ```jsx
 int adicionar_usuario(RedeSocial *rede, const char *nome, int idade) {
