@@ -1,5 +1,9 @@
-## Função buscar_usuario_por_id:
+<details>
+  <summary>
+    ## Função buscar_usuario_por_id:
+  </summary>
 
+  <p>
 Busca por um laço de repetição limitado pela quantidade de usuarios na rede, comparado ao parametro **id;**
 
 Retorna o indice encontrado.
@@ -15,6 +19,14 @@ int buscar_usuario_por_id(const RedeSocial *rede, int id) {
     return -1;
 }
 ```
+</p>
+  <ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+  </ul>
+</details>
+
+
 
 ## Função buscar_amizade:
 
