@@ -16,8 +16,6 @@ int buscar_usuario_por_id(const RedeSocial *rede, int id) {
 }
 ```
 
-![image.png](attachment:3976d11a-2e5c-4caa-90db-1185e9090e6f:image.png)
-
 ## Função buscar_amizade:
 
 Busca por um laço de repetição limitado pela quantidade de amigos dentro de usuario, comparado ao parametro **id;**
