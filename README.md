@@ -1,8 +1,7 @@
 <details>
   <summary>
-    ## Função buscar_usuario_por_id:
+    Função buscar_usuario_por_id:
   </summary>
-
   <p>
 Busca por um laço de repetição limitado pela quantidade de usuarios na rede, comparado ao parametro **id;**
 
